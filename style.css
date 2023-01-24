@@ -37,7 +37,8 @@ span{
     background-repeat: no-repeat;
 }
 section{
-    height: 600px;
+    height: 400px;
+    padding-bottom: 100px;
 }
 .dreamer{
     background-image: url("/image/dream-bg.png");
@@ -48,7 +49,7 @@ section{
 .single-experence{
     box-shadow: 20px 10px 40px rgb(238, 120, 120);
     border-radius: 5px;
-    height: 60%;
+    height: 80%;
     background-color:white;
 }
     
