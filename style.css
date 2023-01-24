@@ -5,6 +5,12 @@ body{
 h1{
     font-size: 30px
 }
+p{
+    color: cadetblue;
+}
+h2{
+    font-size: 25px;
+}
 
 span{
     color: rgb(240, 31, 7);
@@ -14,6 +20,7 @@ span{
     float: left;
     margin-left: 10px;
     padding-left: 60px;
+    padding-bottom: 120px;
 }
 .half-width img{
     width: 100%;
@@ -31,4 +38,9 @@ span{
 }
 section{
     height: 500px;
+}
+.dreamer{
+    background-image: url("/image/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
