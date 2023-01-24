@@ -20,7 +20,6 @@ span{
     float: left;
     margin-left: 10px;
     padding-left: 60px;
-    padding-bottom: 120px;
 }
 .half-width img{
     width: 100%;
@@ -43,4 +42,10 @@ section{
     background-image: url("/image/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
+}
+.single-experence{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 60%;
+
 }
